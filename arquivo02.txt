@@ -1,1 +1,2 @@
 Add arquivo02.txt on feature-f3
+add new line arquivo02.txt on release 0.2.2
