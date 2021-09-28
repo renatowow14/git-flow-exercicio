@@ -1,1 +1,1 @@
-Git Flow, SemVer, and CHANGELOG.md example.
+Git Flow, SemVer, and CHANGELOG.md example.!
