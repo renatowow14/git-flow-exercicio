@@ -1,1 +1,1 @@
-# git-flow-exercicio
+Git Flow, SemVer, and CHANGELOG.md example.
